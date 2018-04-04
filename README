@@ -1,3 +1,9 @@
 gnome-http -- GNOME http client library
 
-Read this.
+如果 configure 过程中出现编译目标类型错误，可以尝试将系统中
+
+/usr/share/automake 中的 config.guess 和config.sub  覆盖代码目录中的对应文件
+
+ 
+
+
